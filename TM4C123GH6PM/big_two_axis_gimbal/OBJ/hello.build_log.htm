@@ -1,0 +1,79 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.27.1.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: jjp Administrator, jjp, LIC=HN0AE-5DCZS-TGE7T-RJC12-TB5KX-5SEUY
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.31.0.0
+Toolchain Path:  D:\SoftWare\SoftWare For Code\Keil\Keil\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.31.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      lmidk-agdi.dll V???
+Dialog DLL:      TCM.DLL V1.46.0.0
+ 
+<h2>Project:</h2>
+D:\SoftWare\SoftWare For Chat\QQ\QQ_Data\2835346616\FileRecv\big_two_axis_gimbal\USER\hello.uvprojx
+Project File Date:  08/05/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\SoftWare\SoftWare For Code\Keil\Keil\ARM\ARMCC\Bin'
+Build target 'big_two_axis_gimbal'
+compiling main.c...
+..\My_lib\encoder.h(25): warning:  #1295-D: Deprecated declaration init_encoder - give arg types
+  void init_encoder();
+two_axis_gimbal.h(26): warning:  #1-D: last line of file ends without a newline
+  void calibration_two_axis_gimbal(void);
+main.c(180): warning:  #177-D: variable "yaw"  was declared but never referenced
+  	double yaw, pitch;
+main.c(180): warning:  #177-D: variable "pitch"  was declared but never referenced
+  	double yaw, pitch;
+main.c(526): warning:  #550-D: variable "buffer"  was set but never used
+  		uint8_t buffer;
+main.c(619): warning:  #1-D: last line of file ends without a newline
+  }
+main.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=17396 RO-data=2400 RW-data=1644 ZI-data=2108  
+FromELF: creating hex file...
+"..\OBJ\hello.axf" - 0 Error(s), 6 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.4.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.TM4C_DFP.1.1.0.pack
+                Keil.TM4C_DFP.1.1.0
+                Texas Instruments Tiva C Series Device Support and Examples
+   * Component: Startup Version: 1.0.1
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_big_two_axis_gimbal
+  D:\SoftWare\SoftWare For Code\Keil\Keil\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  D:\SoftWare\SoftWare For Code\Keil\Keil\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.4.0
+
+   * Component: Keil::Device:Startup:1.0.1
+      Source file:   Device\Source\system_TM4C123.c
+      Source file:   Device\Source\ARM\startup_TM4C123.s
+      Include file:  Device\Include\TM4C123\TM4C123.h
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>

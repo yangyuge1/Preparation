@@ -1,0 +1,14 @@
+..\obj\my_usart.o: ..\My_lib\my_usart.c
+..\obj\my_usart.o: ..\My_lib\my_usart.h
+..\obj\my_usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\my_usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\my_usart.o: ..\Lib\inc/hw_memmap.h
+..\obj\my_usart.o: ..\Lib\inc/hw_ints.h
+..\obj\my_usart.o: ..\Lib\driverlib/uart.h
+..\obj\my_usart.o: ..\Lib\driverlib/pin_map.h
+..\obj\my_usart.o: ..\Lib\driverlib/sysctl.h
+..\obj\my_usart.o: ..\Lib\driverlib/gpio.h
+..\obj\my_usart.o: ..\Lib\utils/uartstdio.h
+..\obj\my_usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\my_usart.o: ..\Lib\driverlib/timer.h
+..\obj\my_usart.o: ..\Lib\driverlib/interrupt.h

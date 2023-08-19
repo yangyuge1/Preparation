@@ -1,0 +1,10 @@
+..\obj\my_iic.o: ..\My_lib\my_iic.c
+..\obj\my_iic.o: ..\My_lib\my_iic.h
+..\obj\my_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\my_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\my_iic.o: ..\Lib\inc/hw_memmap.h
+..\obj\my_iic.o: ..\Lib\inc/hw_ints.h
+..\obj\my_iic.o: ..\Lib\driverlib/pin_map.h
+..\obj\my_iic.o: ..\Lib\driverlib/sysctl.h
+..\obj\my_iic.o: ..\Lib\driverlib/gpio.h
+..\obj\my_iic.o: ..\Lib\driverlib/i2c.h

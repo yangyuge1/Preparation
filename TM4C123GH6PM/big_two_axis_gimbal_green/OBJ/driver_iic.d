@@ -1,0 +1,12 @@
+..\obj\driver_iic.o: ..\My_lib\driver_iic.c
+..\obj\driver_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\driver_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\driver_iic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\driver_iic.o: ..\Lib\inc/hw_memmap.h
+..\obj\driver_iic.o: ..\Lib\inc/hw_i2c.h
+..\obj\driver_iic.o: ..\Lib\inc/hw_sysctl.h
+..\obj\driver_iic.o: ..\Lib\driverlib/sysctl.h
+..\obj\driver_iic.o: ..\Lib\driverlib/gpio.h
+..\obj\driver_iic.o: ..\Lib\driverlib/pin_map.h
+..\obj\driver_iic.o: ..\Lib\driverlib/i2c.h
+..\obj\driver_iic.o: ..\My_lib\driver_iic.h

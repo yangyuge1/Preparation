@@ -1,0 +1,9 @@
+..\obj\driver_atk_test.o: ..\My_lib\driver_atk_test.c
+..\obj\driver_atk_test.o: ..\My_lib\driver_atk_test.h
+..\obj\driver_atk_test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\driver_atk_test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\driver_atk_test.o: ..\My_lib\driver_atk_mwcc68d.h
+..\obj\driver_atk_test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\driver_atk_test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\driver_atk_test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\driver_atk_test.o: ..\Lib\utils/uartstdio.h
