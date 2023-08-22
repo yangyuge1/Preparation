@@ -6,6 +6,7 @@ Preparation for the National College Student Electronic Design Competition
 视频参见个人B站主页置顶：https://space.bilibili.com/666680560
 
 ##硬件清单
+
 ###绿色激光云台
 
 步进电机x2
