@@ -1,5 +1,5 @@
 # Preparation
-Preparation for the National College Student Electronic Design Competition 
+Preparation for the National College Student Electronic Design Competition  
 本仓库内容为2023年电赛E题**未整理**原始代码 
 视频参见个人B站主页置顶：https://space.bilibili.com/666680560 
 ## 硬件清单
