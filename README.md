@@ -56,6 +56,11 @@ TM4C123GH6PM x1
 白色背景版
 
 木质底座
+
 ## 软件清单
+
+### Nvidia_Jetson_Nano/test_rectangle.py
+视觉部分程序，部署属于Nvidia_Jetson_Nano，因为视觉部分的硬件基本一致，所以共享同一套代码，仅初始参数不同
+
 
 
