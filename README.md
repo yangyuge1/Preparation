@@ -62,5 +62,8 @@ TM4C123GH6PM x1
 ### Nvidia_Jetson_Nano/test_rectangle.py
 视觉部分程序，部署属于Nvidia_Jetson_Nano，因为视觉部分的硬件基本一致，所以共享同一套代码，仅初始参数不同
 
+### TM4C123GH6PM/big_two_axis_gimbal
+红色激光云台控制部分，部署于TM4C123GH6PM
 
-
+### TM4C123GH6PM/big_two_axis_gimbal_green
+绿色激光云台控制部分，部署于TM4C123GH6PM
