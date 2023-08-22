@@ -5,9 +5,9 @@ Preparation for the National College Student Electronic Design Competition
 
 视频参见个人B站主页置顶：https://space.bilibili.com/666680560
 
-##硬件清单
+## 硬件清单
 
-###绿色激光云台
+### 绿色激光云台
 
 步进电机x2
 
@@ -29,7 +29,7 @@ TM4C123GH6PM x1
 
 支架、轴承、3D打印配件若干
 
-###红色激光云台
+### 红色激光云台
 
 步进电机x2
 
@@ -49,7 +49,7 @@ TM4C123GH6PM x1
 
 支架、轴承、3D打印配件若干
 
-###公共部分
+### 公共部分
 
 铝合金摄像头支架
 
