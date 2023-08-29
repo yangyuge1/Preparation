@@ -1,8 +1,0 @@
-﻿  main.c
-D:\learn\C++_base_learn\Project2\Project2\main.c(79,79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\learn\C++_base_learn\Project2\Project2\main.c(80,83): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\learn\C++_base_learn\Project2\Project2\main.c(85,76): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\learn\C++_base_learn\Project2\Project2\main.c(86,82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\learn\C++_base_learn\Project2\Project2\main.c(74,14): warning C4101: “pitch”: 未引用的局部变量
-D:\learn\C++_base_learn\Project2\Project2\main.c(74,9): warning C4101: “yaw”: 未引用的局部变量
-  Project2.vcxproj -> D:\learn\C++_base_learn\Project2\x64\Debug\Project2.exe
