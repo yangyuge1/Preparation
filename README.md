@@ -52,7 +52,7 @@ Modules
 |        |--complex_task_support.c 延时与回调函数   
 |--EEPROM 数据持久化  
 |--Encoder 编码器  
-|--IIC 
+|--IIC  
 |--JY901B 维特智能陀螺仪模块  
 |--SSI  
 |--Stepper_motor 步进电机串口控制  
